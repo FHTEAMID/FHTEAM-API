@@ -1,5 +1,5 @@
 {
-  "name": "FHTEAM API",
+  "name": "FHTEAM-API",
   "version": "1.1.2",
   "description": "Rest Api Fhteam",
   "main": "index.js",
